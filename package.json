@@ -1,5 +1,5 @@
 {
-  "name": "scripto",
+  "name": "scriptos",
   "version": "1.0.0",
   "description": "Parse and run your npm scripts",
   "main": "lib/index.js",
