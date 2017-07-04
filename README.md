@@ -7,3 +7,6 @@ Parse and run your npm scripts
 ```
 npm i -g scriptos
 ```
+
+## How it works 
+![screenshot](https://github.com/DCKT/scripto/blob/master/assets/screen.png?raw=true)
