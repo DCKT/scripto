@@ -1,0 +1,38 @@
+{
+  "name": "scripto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "brace-expansion": "^1.1.8",
+    "colors": "^1.1.2",
+    "concat-map": "^0.0.1",
+    "exit": "^0.1.2",
+    "fs.realpath": "^1.0.0",
+    "glob": "^7.1.2",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.3",
+    "inquirer": "^3.1.1",
+    "minimatch": "^3.0.4",
+    "once": "^1.4.0",
+    "path-is-absolute": "^1.0.1",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "",
+    "release": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
